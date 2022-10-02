@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CarDealerPlatfrom.Common\CarDealerPlatform.Domain.csproj" />
+    <ProjectReference Include="..\CarDealerPlatform.Domain\CarDealerPlatform.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
